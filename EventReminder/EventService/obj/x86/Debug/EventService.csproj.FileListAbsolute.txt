@@ -1,0 +1,11 @@
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x86\Debug\EventService.exe.config
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x86\Debug\EventService.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x86\Debug\EventService.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x86\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x86\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.ProjectInstaller.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.Service1.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.csproj.GenerateResource.Cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x86\Debug\EventService.pdb

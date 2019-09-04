@@ -1,0 +1,89 @@
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\sasi\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form2.resources
+G:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+G:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+Z:\working_projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+Z:\working_projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form2.resources
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+Z:\working_projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+E:\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+E:\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form2.resources
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+E:\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+F:\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+F:\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\Erandi\Desktop\FrmEventReminderService\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.cache
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.CoreCompileInputs.cache
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\NIMESH_PC\Documents\Visual Studio 2017\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Debug\EventService.ProjectInstaller.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Form1.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder dgdgdg\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\bin\Debug\FrmEventReminder.exe
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\bin\Debug\FrmEventReminder.pdb
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Properties.Resources.resources
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Documents\Visual Studio 2015\Projects\FrmEventReminder new\FrmEventReminder\obj\x86\Debug\FrmEventReminder.Formremind.resources

@@ -1,0 +1,8 @@
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Release\FrmEventReminder.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\bin\Release\FrmEventReminder.pdb
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.csprojResolveAssemblyReference.cache
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.Form1.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.Properties.Resources.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.csproj.GenerateResource.Cache
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\FrmEventReminder\obj\x86\Release\FrmEventReminder.pdb

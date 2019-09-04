@@ -1,0 +1,4 @@
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\x64\Debug\EventService.exe.config
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x64\Debug\EventService.ProjectInstaller.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x64\Debug\EventService.Service1.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\x64\Debug\EventService.csproj.GenerateResource.Cache

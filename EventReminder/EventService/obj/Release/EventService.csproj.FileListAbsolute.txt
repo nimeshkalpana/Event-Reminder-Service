@@ -1,0 +1,9 @@
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\Release\EventService.exe.config
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\Release\EventService.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\bin\Release\EventService.pdb
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.ProjectInstaller.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.Service1.resources
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.csproj.GenerateResource.Cache
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.exe
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.pdb
+C:\Users\dinusha\Documents\Visual Studio 2015\Projects\FrmEventReminder\EventService\obj\Release\EventService.csprojResolveAssemblyReference.cache
